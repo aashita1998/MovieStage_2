@@ -23,5 +23,6 @@ class Review {
     public Review(String author, String content) {
         this.author = author;
         this.content = content;
+        //this is review pojo
     }
 }
