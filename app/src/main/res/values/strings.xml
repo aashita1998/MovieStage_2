@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieStage_2</string>
+    <string name="tab_text1">Popular</string>
+    <string name="tab_tect2">TopRated</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="no_data">No Reviews</string>
+    <string name="overview">Overview</string>
+    <string name="review">Review</string>
+    <string name="youtubeTrailers">YouTube Trailers</string>
+    <string name="title">Movie</string>
+    <string name="vote">Votes</string>
+    <string name="releasedate">Release Date</string>
+</resources>
