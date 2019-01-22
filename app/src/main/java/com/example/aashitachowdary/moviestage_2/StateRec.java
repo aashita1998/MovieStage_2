@@ -9,6 +9,7 @@ import android.support.v7.widget.RecyclerView;
 import android.util.AttributeSet;
 
 public final class  StateRec extends RecyclerView {
+    //This is state full recycler view class.
     private static final String SAVED_SUPER_STATE = "super-state";
     private static final String SAVED_LAYOUT_MANAGER = "layout-manager-state";
 
