@@ -3,6 +3,7 @@ package com.example.aashitachowdary.moviestage_2;
 import com.android.volley.toolbox.StringRequest;
 
 class Trailer {
+    //This is trailer pojo class
     String id;
     String key;
     String name;
